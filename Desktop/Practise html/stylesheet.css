@@ -1,9 +1,35 @@
 #place{
     font-size: xx-large;
-    background-color: bisque;
+    color: whitesmoke;
 
-    float: left;
+    text-align: center;
     
     
 
+}
+.images{
+    text-align: center;
+    display: block;
+
+    
+}
+
+.heading{
+    font-size: xx-large;
+    color: whitesmoke;
+    text-align: center;
+}
+.paragraph{
+    font-size: large;
+    color: white;
+
+
+    
+}
+*{
+    background-color: gray;
+}
+.height{
+    width: 400px;
+    height: 500px;
 }
